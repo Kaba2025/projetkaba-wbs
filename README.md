@@ -3,7 +3,7 @@
 Bienvenue dans mon univers dédié à la **Data Science**, aux **statistiques** et à l’**économétrie** ! Ce dépôt regroupe une variété de projets illustrant mon parcours, mes compétences et ma passion pour la donnée et sa transformation en insights utiles.
 
 ## 👨‍💻 Qui suis-je ?
-![Ma photo](WhatsApp Image 2025-02-19 à 22.30.48_4d496fd0.jpg)
+![Ma photo](Téléchargements/kabaphoto.jpg)
 
 Je suis **Kaba Mahamoud Toib**, étudiant en Master Statistique, Économétrie et Data Science à **INSEEDS**. Curieux et passionné, je mets en œuvre mes compétences pour analyser, modéliser et visualiser les données, tout en apportant des solutions concrètes aux problématiques rencontrées.
 

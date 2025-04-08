@@ -1,54 +1,59 @@
 # Bienvenue sur mon portfolio 🚀
-Bienvenue dans mon espace dédié à la Data Science, à l'analyse de données et à l'innovation ! Ici, vous trouverez une collection de projets, de scripts et de ressources qui reflètent ma passion pour les données et mon engagement à transformer des informations complexes en solutions concrètes et impactantes.
+
+Bienvenue dans mon univers dédié à la **Data Science**, aux **statistiques** et à l’**économétrie** ! Ce dépôt regroupe une variété de projets illustrant mon parcours, mes compétences et ma passion pour la donnée et sa transformation en insights utiles.
 
 ## 👨‍💻 Qui suis-je ?
-Je suis Anasse Yahanan BOUAGBA, Statisticien, Data Analyst et Data Scientist. Passionné par les données, je mets mes compétences techniques et analytiques au service de projets variés, allant de la modélisation prédictive à la visualisation de données, en passant par l'automatisation des processus.
 
-![image](https://github.com/user-attachments/assets/1332db59-5952-42d6-b6f9-0f24309e62fd)
+Je suis **Kaba Mahamoud Toib**, étudiant en Master Statistique, Économétrie et Data Science à **INSEEDS**. Curieux et passionné, je mets en œuvre mes compétences pour analyser, modéliser et visualiser les données, tout en apportant des solutions concrètes aux problématiques rencontrées.
 
-## 🎯 Objectif de ce dépôt
-Ce dépôt **Rquarto** a pour but de partager mes projets, mes expériences et mes apprentissages dans le domaine de la Data Science. Vous y trouverez :
+## 🧠 Compétences clés
 
-Projets complets : Des analyses de données, des modèles prédictifs et des visualisations interactives.
+- **Analyse de données** : Statistiques univariées et bivariées, économétrie.
+- **Clustering et classification** : K-Means, ACP, CAH, AFC, ACM.
+- **Programmation** : Python (Pandas, Matplotlib, Seaborn), R.
+- **Visualisation et reporting** : Power BI, Tableau, R Markdown.
+- **Base de données** : SQL (PostgreSQL, MySQL).
+- **Collecte et traitement des données** : Sondages, enquêtes, cartographie.
+- **Prévision et modélisation** : Analyse statistique et économétrique.
+- **Web scraping** : Extraction automatique de données depuis le web.
+- **cartographie**
+## 🎓 Formation
 
-Tutoriels et ressources : Des guides pratiques pour vous aider à maîtriser des outils comme R, Python, SQL, et bien d'autres.
+- **2025 (en cours)** – Master en Statistique, Économétrie et Data Science – INSEEDS  
+- **2023** – Licence SEG option Statistique et Économétrie Financière – UIPA
 
-Scripts utiles : Des extraits de code pour automatiser des tâches, nettoyer des données ou créer des visualisations percutantes.
+## 🚀 Projets réalisés
 
-🚀 Ce que vous trouverez ici
+### 📌 Analyse de la dépression chez les étudiants  
+- Étude statistique et économétrique sur les facteurs de stress.  
+- Analyse univariée et bivariée avec visualisation via R et Power BI.
 
-![image](https://github.com/user-attachments/assets/43e44468-810a-4e4d-a992-15dfbffd3072)
+### 📌 Clustering avec ACP, CAH, AFC, ACM  
+- Regroupement des données via méthodes factorielles et clustering.  
+- Visualisation et interprétation des clusters.
 
+### 📌 Analyse et Visualisation avec R  
+- Graphiques avancés et rédaction de rapports professionnels avec R Markdown.
 
-- Analyse de données : Exploration, nettoyage et visualisation de données pour en extraire des insights pertinents.
-
-- Modélisation prédictive : Conception et déploiement de modèles de Machine Learning pour résoudre des problèmes concrets.
-
-- Outils interactifs : Développement d'applications avec **RShiny** et **Streamlit** pour rendre les données accessibles et interactives.
-
-- Automatisation : Scripts pour optimiser et accélérer les workflows d'analyse de données.
+### 📌 Enquête et cartographie des données  
+- Collecte sur le terrain, visualisation cartographique et analyse synthétique.
 
 ## 📂 Structure du dépôt
-- Projets : Dossiers dédiés à chaque projet, avec le code, les données et les rapports associés.
 
-- Tutoriels : Guides pas à pas pour vous familiariser avec des outils et des techniques en Data Science.
-
-- Scripts : Extraits de code réutilisables pour des tâches courantes en analyse de données.
-
-## 💡 Pourquoi explorer ce site ?
-- Inspiration : Découvrez des projets concrets et des solutions innovantes pour vos propres analyses.
-
-- Apprentissage : Profitez de tutoriels et de ressources pour améliorer vos compétences en Data Science.
-
-- Collaboration : N'hésitez pas à contribuer, à poser des questions ou à partager vos idées !
+- **Projets** : Dossiers complets contenant le code, les données et les rapports.
+- **Scripts** : Utilitaires pour automatiser et optimiser les analyses.
+- **Tutoriels** : Guides pratiques pour maîtriser des outils de la Data Science.
 
 ## 📬 Contact
-Vous avez des questions, des suggestions ou envie de collaborer ? N'hésitez pas à me contacter :
 
-- Email : anasseyahanan@gmail.com
+Vous souhaitez collaborer, poser une question ou échanger ? Je suis ouvert à toute opportunité :
 
-- LinkedIn : Anasseyahnn
+- **Email** : kabamahmoudtoib2024@gmail.com  
+- **LinkedIn** : [Ton lien LinkedIn ici si tu en as un]
 
-Merci d'avoir visité mon dépôt GitHub ! J'espère que vous y trouverez des informations utiles et inspirantes. N'oubliez pas de ⭐ ce dépôt si vous appréciez mon travail, et n'hésitez pas à explorer, partager et collaborer. Ensemble, transformons les données en solutions concrètes et impactantes ! 🚀
+Merci d’avoir visité mon dépôt GitHub ! N’oubliez pas de ⭐ le projet si vous l’appréciez, et à bientôt pour de nouvelles découvertes analytiques !
 
-Bonne exploration !
+---
+
+Dis-moi si tu veux que je le mette directement dans ton dépôt ou si tu veux juste copier-coller dans ton `README.md`. On peut aussi y ajouter une **photo de profil**, un **logo**, ou autre chose si tu veux personnaliser encore plus.
+

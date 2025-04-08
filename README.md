@@ -49,11 +49,10 @@ Je suis **Kaba Mahamoud Toib**, étudiant en Master Statistique, Économétrie e
 Vous souhaitez collaborer, poser une question ou échanger ? Je suis ouvert à toute opportunité :
 
 - **Email** : kabamahmoudtoib2024@gmail.com  
-- **LinkedIn** : [Ton lien LinkedIn ici si tu en as un]
+- **LinkedIn** : www.linkedin.com/in/
+mahamoud-toib-kaba-a66a8a347
 
 Merci d’avoir visité mon dépôt GitHub ! N’oubliez pas de ⭐ le projet si vous l’appréciez, et à bientôt pour de nouvelles découvertes analytiques !
 
----
 
-Dis-moi si tu veux que je le mette directement dans ton dépôt ou si tu veux juste copier-coller dans ton `README.md`. On peut aussi y ajouter une **photo de profil**, un **logo**, ou autre chose si tu veux personnaliser encore plus.
 
